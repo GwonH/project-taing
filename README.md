@@ -3,6 +3,7 @@
 
 ## <Taing 클론코딩>
 ![Logo](https://github.com/Sirori/readme-/assets/116864776/9f95d96f-2d4d-48c2-af3a-963c7366bf82)
+ -https://candoit.netlify.app/ <br>
 
  -티빙(TVing)이라는 OTT 페이지를 기반한 페이지를 작업하였습니다.
 
